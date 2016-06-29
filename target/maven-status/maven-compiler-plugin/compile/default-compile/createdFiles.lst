@@ -1,0 +1,4 @@
+br\com\acs\repository\ClienteRepository.class
+br\com\acs\run\Application.class
+br\com\acs\model\Compra.class
+br\com\acs\model\Cliente.class
